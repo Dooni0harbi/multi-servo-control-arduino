@@ -95,7 +95,7 @@ This project demonstrates the fundamentals of synchronized servo motor control u
 
 The complete circuit was designed, programmed, and tested using **Tinkercad Circuits Simulation** before any physical implementation.
 
-The simulation output is included in this repository as a short video/GIF to demonstrate the behavior of the servo motors during operation.
+The simulation output is included in this repository as a short video to demonstrate the behavior of the servo motors during operation.
 
 ---
 
